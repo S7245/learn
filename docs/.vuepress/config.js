@@ -12,7 +12,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '识图谱',
   description: '这是我的第一个 VuePress 站点',
-  base: '/known/',
+  base: '/learn/',
   port: '8088',
 
   plugins: [
