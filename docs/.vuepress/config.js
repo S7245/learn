@@ -13,6 +13,7 @@ export default defineUserConfig({
   title: '识图谱',
   description: '这是我的第一个 VuePress 站点',
   base: '/known/',
+  port: '8088',
 
   plugins: [
     backToTopPlugin(),
