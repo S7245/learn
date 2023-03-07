@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0a7c08","path":"/bp/","title":"商业","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"极热极寒条件的","slug":"极热极寒条件的","link":"#极热极寒条件的","children":[]}],"git":{"updatedTime":1678154561000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":1}]},"filePathRelative":"bp/README.md"}');export{e as data};

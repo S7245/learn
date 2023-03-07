@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8e01fd80","path":"/fitness/","title":"健身","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"横向劈叉","slug":"横向劈叉","link":"#横向劈叉","children":[]}],"git":{"updatedTime":1678154561000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":1}]},"filePathRelative":"fitness/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3ebea37a","path":"/tree/meditation.html","title":"冥想","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1678154561000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":1}]},"filePathRelative":"tree/meditation.md"}');export{t as data};
