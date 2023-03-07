@@ -83,6 +83,9 @@ function sidebarFun() {
         ],
         '/lang/en/': [
             'categories.md'
+        ],
+        '/trip/': [
+            'README.md'
         ]
     };
 }
