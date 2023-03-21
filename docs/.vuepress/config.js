@@ -69,7 +69,7 @@ function sidebarFun() {
             '/tree/rent.md',
             '/tree/study_method.md',
             '/tree/halloween.md',
-            '/tree/task.md',
+            // '/tree/task.md',
         ],
         '/fitness/': [
             '/fitness/fitfood.md'
@@ -85,7 +85,8 @@ function sidebarFun() {
             'categories.md'
         ],
         '/trip/': [
-            'README.md'
+            'README.md',
+            'task.md',
         ]
     };
 }
