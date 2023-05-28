@@ -54,6 +54,7 @@ function navbarFun() {
                 { text: '导演类', link: '/director/' },
                 { text: '旅游记录', link: '/trip/' },
                 { text: '经济学', link: '/economics/' },
+                { text: '育儿', link: '/kids/' },
             ]
         }
     ];
@@ -87,6 +88,9 @@ function sidebarFun() {
         '/trip/': [
             'README.md',
             'task.md',
+        ],
+        '/kids/': [
+            'README.md',
         ]
     };
 }
