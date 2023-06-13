@@ -74,6 +74,7 @@ function sidebarFun() {
         ],
         '/fitness/': [
             '/fitness/fitfood.md'
+            '/fitness/back.md'
         ],
         '/bodyDev/': [
             '/bodyDev/memory.md',
