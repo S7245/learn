@@ -73,7 +73,7 @@ function sidebarFun() {
             // '/tree/task.md',
         ],
         '/fitness/': [
-            '/fitness/fitfood.md'
+            '/fitness/fitfood.md',
             '/fitness/back.md'
         ],
         '/bodyDev/': [
