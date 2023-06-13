@@ -43,7 +43,7 @@ function navbarFun() {
             ]
         },
         {
-            text: '集合',
+            text: '更多',
             children: [
                 { text: '技能树', link: '/tree/' },
                 { text: '健身与饮食', link: '/fitness/' },
