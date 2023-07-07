@@ -33,3 +33,12 @@
 ![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/20230611-1.gif)
 
 ![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/20230611-00002.gif)
+
+
+## 爆发力
+
+- 训练好小腿和跟腱肌肉的爆发力
+- 训练好大腿肌肉力量
+- 训练好核心力量
+
+南航
