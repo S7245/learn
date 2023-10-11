@@ -34,7 +34,11 @@ export default defineUserConfig({
 function navbarFun() {
     return [
         { text: '首页', link: '/' },
-        { text: '历史痕迹', link: '/history/' },
+        { text: '历史痕迹', 
+          children :[
+            {text:'20世纪', link:'/history/20th/'},
+            {text:'21世纪', link:'/history/21th/'}
+          ]},
         { text: '营销学', link: '/marketing/' },
         { text: '商业学', link: '/bp/' },
         {
@@ -93,6 +97,14 @@ function sidebarFun() {
         ],
         '/kids/': [
             'README.md',
-        ]
+        ],
+        '/history/20th/': [
+            'README.md',
+            '1950s.md',
+        ],
+        '/history/21th/': [
+            'README.md',
+            '2020s.md',
+        ],
     };
 }
