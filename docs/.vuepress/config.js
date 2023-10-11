@@ -34,6 +34,7 @@ export default defineUserConfig({
 function navbarFun() {
     return [
         { text: '首页', link: '/' },
+        { text: '历史痕迹', link: '/history/' },
         { text: '营销学', link: '/marketing/' },
         { text: '商业学', link: '/bp/' },
         {
