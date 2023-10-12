@@ -101,6 +101,7 @@ function sidebarFun() {
         '/history/20th/': [
             'README.md',
             '1950s.md',
+            '1940s.md',
         ],
         '/history/21th/': [
             'README.md',
