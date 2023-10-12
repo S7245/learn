@@ -2,6 +2,13 @@
 
 ## 深圳
 
+### 美食
+
+- [【潮泰牛肉火锅 · 创于1992年(车公庙店)】](https://m.dianping.com/shopshare/H1wk7x4zzKnlTbPz?msource=Appshare2021&utm_source=shop_share&issilencelogin=0&shoptype=10&shopcategoryid=32731&cityid=7&isoversea=0）
+
+
+### 景点
+
 - 三门岛风景旅游度假区
 - 西涌
 - 东涌
