@@ -105,6 +105,7 @@ function sidebarFun() {
         '/history/21th/': [
             'README.md',
             '2020s.md',
+            '2010s.md',
         ],
     };
 }
