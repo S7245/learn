@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-8c5a1526.js";const n={},r=e("h1",{id:"冥想",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#冥想","aria-hidden":"true"},"#"),c(" 冥想")],-1),s=[r];function _(d,i){return a(),o("div",null,s)}const l=t(n,[["render",_],["__file","meditation.html.vue"]]);export{l as default};

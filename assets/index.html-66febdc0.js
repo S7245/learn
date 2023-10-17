@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-555a1bf0","path":"/history/21th/","title":"21世纪","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1697121611000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":2}]},"filePathRelative":"history/21th/README.md"}');export{t as data};

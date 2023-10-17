@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10b1f48a","path":"/economics/","title":"经济学","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"汇率","slug":"汇率","link":"#汇率","children":[]}],"git":{"updatedTime":1678154561000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":1}]},"filePathRelative":"economics/README.md"}');export{e as data};
